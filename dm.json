@@ -10,6 +10,7 @@
       "index": 1,
       "ext": {
         "apiUrls": [
+          "http://127.0.0.1:9321/87654321|本地",    
           "https://logo.saodu.work:8888/87654321|公益源",
           "https://dm.liuuu.top/99|公益源1",
           "https://1233.hhfnj.dpdns.org|爪云"
