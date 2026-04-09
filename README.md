@@ -1,5 +1,7 @@
 OK影视外挂弹幕-基于LogVar(第三版)
 
+插件来自 tg://user?id=8168894730
+
 在直播接口填https://raw.githubusercontent.com/jieluojun/OK-LogVar/refs/heads/main/dm.json
 
 或使用加速镜像
